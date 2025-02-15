@@ -1,6 +1,6 @@
 
 L = ['T', 'R', 'U', 'O', 'N', 'G', 'T', 'U', 'Y', 'E', 'T', 'T', 'R', 'I', 'N', 'H']
-k = 14
+k = 17
 ciphertext = []
 
 for char in L:
